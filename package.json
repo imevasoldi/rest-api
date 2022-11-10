@@ -1,0 +1,14 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "rest api for frontend developers",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jason-server": "^3.0.0"
+  }
+}
