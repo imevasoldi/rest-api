@@ -4,6 +4,8 @@ Once the files has been extracted, open the folder rest-api with your code edito
 
 then, run this line to run the server:
 
+>yarn add json-server (you must have the latest version of node in your system and must also have yarn activated)
+
 >yarn json:server
 
 Server should be running on localhost:3000 
@@ -13,9 +15,7 @@ Open folder secret-santa on your code editor
 
 run this lines:
 
->npm install -g json-server (if you don't have it alraedy installed json-server on your OS)
-
->yarn add react-scripts
+>yarn add react-scripts (node < 18)
 
 This should install node_modules
 
